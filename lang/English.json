@@ -1,0 +1,10 @@
+{
+	"user" : {
+		"username" 	: "Username",
+		"age" 		: "Age"
+	},
+	"buildings"	: {
+			"towncenter" : "Towncenter"
+		},
+	"requires" 		: "Requires $building at level $level"
+}

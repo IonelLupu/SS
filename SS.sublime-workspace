@@ -1,0 +1,1701 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"snipp",
+				"snippet"
+			],
+			[
+				"sn",
+				"snippetData  (variable)"
+			],
+			[
+				"sec",
+				"sectionData"
+			],
+			[
+				"sni",
+				"snippetData"
+			],
+			[
+				"da",
+				"dataVal"
+			],
+			[
+				"mar",
+				"matches  (variable)"
+			],
+			[
+				"defa",
+				"defaultLanguage"
+			],
+			[
+				"curre",
+				"currentLanguage"
+			],
+			[
+				"match",
+				"matches"
+			],
+			[
+				"Lang",
+				"Language"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"math",
+				"match2"
+			],
+			[
+				"patter",
+				"pattern"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"autoload",
+				"spl_autoload_unregister"
+			],
+			[
+				"tr",
+				"translateX"
+			],
+			[
+				"trans",
+				"translateY"
+			],
+			[
+				"cube",
+				"cubeX"
+			],
+			[
+				"lg",
+				"light"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"de",
+				"debugData"
+			],
+			[
+				"process",
+				"processDebug"
+			],
+			[
+				"get",
+				"getMatrix"
+			],
+			[
+				"def",
+				"defaultCamera"
+			],
+			[
+				"protot",
+				"prototype"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"M",
+				"Matrix4"
+			],
+			[
+				"ma",
+				"Matrix4"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"obje",
+				"object"
+			],
+			[
+				"up",
+				"updateFunction"
+			],
+			[
+				"verte",
+				"vertexShader"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"progra",
+				"program"
+			],
+			[
+				"prog",
+				"programs"
+			],
+			[
+				"pr",
+				"programs"
+			],
+			[
+				"clea",
+				"clearColor"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"ver",
+				"vertices"
+			],
+			[
+				"in",
+				"indices"
+			],
+			[
+				"ve",
+				"vertices"
+			],
+			[
+				"pra",
+				"parameters"
+			],
+			[
+				"rota",
+				"rotate"
+			],
+			[
+				"rot",
+				"rotation_matrix"
+			],
+			[
+				"cl",
+				"clientX"
+			],
+			[
+				"del",
+				"deltaX"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"add",
+				"addEvent"
+			],
+			[
+				"Eve",
+				"Events"
+			],
+			[
+				"tri",
+				"Triggers"
+			],
+			[
+				"do",
+				"Document"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"ztr",
+				"zTreeObj"
+			],
+			[
+				"wid",
+				"window"
+			],
+			[
+				"z",
+				"zTreeObj"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"geT_c",
+				"get_class_methods"
+			],
+			[
+				"star",
+				"startdate"
+			],
+			[
+				"timel",
+				"timeline_config"
+			],
+			[
+				"a",
+				"asset"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"db",
+				"dbArticles"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"arr",
+				"arrow"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"node",
+				"nodes"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"butt",
+				"buttonChange"
+			],
+			[
+				"color",
+				"colorChange"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"brdr",
+				"border-radius"
+			],
+			[
+				"button",
+				"button-active"
+			],
+			[
+				"prep",
+				"prepare"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"mouse",
+				"mouseup"
+			],
+			[
+				"cli",
+				"clientY"
+			],
+			[
+				"mo",
+				"mousemove"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"cur",
+				"cur-ha	cursor: hand;"
+			],
+			[
+				"mou",
+				"mousedown"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"parseI",
+				"parseInt"
+			],
+			[
+				"op",
+				"opt"
+			],
+			[
+				"opa",
+				"opa"
+			],
+			[
+				"C",
+				"COLOR"
+			],
+			[
+				"H",
+				"HSBToRGB"
+			],
+			[
+				"getH",
+				"getHsb"
+			],
+			[
+				"Co",
+				"COLOR"
+			],
+			[
+				"Pa",
+				"parseInt"
+			],
+			[
+				"opac",
+				"opacityHandle"
+			],
+			[
+				"Col",
+				"colorHandle"
+			],
+			[
+				"hsa",
+				"hsla"
+			],
+			[
+				"coloh",
+				"colorHandle"
+			],
+			[
+				"hue",
+				"hueValue"
+			],
+			[
+				"updateP",
+				"updatePicker"
+			],
+			[
+				"hex",
+				"hexToRgb"
+			],
+			[
+				"hu",
+				"hueValue"
+			],
+			[
+				"data",
+				"data-transparent"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"hom",
+				"home_link"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"cus",
+				"customers"
+			],
+			[
+				"res",
+				"restrictions"
+			],
+			[
+				"regs",
+				"registered"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"log",
+				"log	log"
+			],
+			[
+				"Au",
+				"Authenticator"
+			],
+			[
+				"Auth",
+				"AuthController"
+			],
+			[
+				"login",
+				"loginCheck"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pas",
+				"pass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 848,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SS.php",
+			"settings":
+			{
+				"buffer_size": 3282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Language.php",
+			"settings":
+			{
+				"buffer_size": 1717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "htmls.html",
+			"settings":
+			{
+				"buffer_size": 476,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"test",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"sintal",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/etc/php5/apache2/php.ini",
+		"/home/ionel/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/html/phone/test/hello/www/index.html",
+		"/var/www/html/SS/Language.php",
+		"/var/www/html/SS/lang/English.json",
+		"/var/www/html/SS/lang/Romanian.json",
+		"/home/ionel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ionel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/var/www/html/SS/html.html",
+		"/var/www/html/__/webgl/index.html",
+		"/var/www/html/__/webgl/webgl.js",
+		"/var/www/html/__/webgl/matrix.js",
+		"/var/www/html/__/webgl/script.js",
+		"/var/www/html/test.php",
+		"/var/www/html/__/threejs/script/three.js",
+		"/var/www/html/__/threejs/script/script.js",
+		"/var/www/html/__/threejs/marine.js",
+		"/var/www/html/__/webgl/objLoader.js",
+		"/etc/apache2/apache2.conf",
+		"/var/www/html/__/threejs/script/objLoader.js",
+		"/home/ionel/.config/sublime-text-3/Packages/User/test.sublime-snippet",
+		"/var/www/html/__/webgl/functions.js",
+		"/var/www/html/__/webgl/cube.obj",
+		"/home/ionel/Downloads/cube.obj",
+		"/var/www/html/__/threejs/cube.obj",
+		"/var/www/html/__/objLoader/objLoader.js",
+		"/var/www/html/__/webgl/.sublime-project",
+		"/var/www/html/__/webgl/.floo",
+		"/var/www/html/__/threejs/index.php",
+		"/var/www/html/__/objLoader/index.php",
+		"/var/www/html/__/objLoader/cube.obj",
+		"/var/www/html/__/objLoader/three.js",
+		"/var/www/html/webgl0/index.html",
+		"/var/www/html/webgl0/script.js",
+		"/var/www/html/threejs/script/three.js",
+		"/var/www/html/threejs/script/script.js",
+		"/var/www/html/webgl/index.html",
+		"/var/www/html/webgl/script.js",
+		"/var/www/html/webgl/webgl.js",
+		"/var/www/html/webgl/matrix.js",
+		"/var/www/html/webgl0/matrix.js",
+		"/var/www/html/threejs/index.php",
+		"/var/www/html/threejs/script/controls.js",
+		"/var/www/html/threejs/script",
+		"/var/www/html/threejs/script/jquery.js",
+		"/home/ionel/Downloads/mrdoob-three.js-1769fbf/build/three.js",
+		"/home/ionel/Downloads/mrdoob-three.js-1769fbf/src/Three.js",
+		"/var/www/html/ui/script/global.js",
+		"/var/www/html/ui/script/we.js",
+		"/var/www/html/ui/index.php",
+		"/var/www/html/ui/scss/global.scss",
+		"/var/www/html/ui/scss/style.scss",
+		"/home/ionel/Downloads/three.js-r1/src/scenes/Scene.js",
+		"/home/ionel/Downloads/three.js-r33/src/extras/ShaderUtils.js",
+		"/home/devel/public18.webas.ro/libraries/cms/installer/installer.php",
+		"/home/devel/public18.webas.ro/plugins/community/mykunena/manifest.xml",
+		"/home/devel/public18.webas.ro/_data/gk_university_rest_files_J3/plugins/gkextmenu/parameters.xml",
+		"/home/ionel/.cache/.fr-i7pdce/gk_university_rest_files_J!3/plugins/gkextmenu/parameters.xml",
+		"/home/ionel/.cache/.fr-lYRjeL/gk_university_quickstart_J30/plugins/system/gkextmenu/parameters.xml",
+		"/home/devel/public18.webas.ro/installation/view/install/html.php",
+		"/home/ionel/.cache/.fr-x5I6UJ/gk_university_quickstart_J30/installation/view/install/html.php",
+		"/home/devel/public18.webas.ro/plugins/system/gkextmenu/parameters.xml",
+		"/home/devel/public18.webas.ro/installation/view/preinstall/html.php",
+		"/var/www/html/ui/script/treeview.js",
+		"/home/ionel/Downloads/zTree_v3/js/jquery.ztree.exedit-3.5.min.js",
+		"/var/www/html/ui/css/treeview.css",
+		"/home/ionel/Downloads/zTree_v3/js/jquery.ztree.all-3.5.js",
+		"/home/devel/public18.webas.ro/modules/mod_timeline/helper.php",
+		"/home/devel/public18.webas.ro/modules/mod_timeline/tmpl/default.php",
+		"/home/devel/public18.webas.ro/modules/mod_timeline/others/timeline.css",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/others/timeline.css",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/others/story.js",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/others/timeline.js",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/otherss/timeline-min.js",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/helper.php",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/mod_timeline.xml",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/tmpl/default.php",
+		"/home/ionel/Downloads/zTree_v3/demo/en/index.html",
+		"/var/www/html/Module-Timeline/mod_timeline.xml",
+		"/var/www/html/JeyC Article Comp/site/jeycarticle.php",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/mod_timeline.php",
+		"/var/www/html/Joomla 3 Base/modules/mod_timeline/others/timeline-min.js",
+		"/var/www/html/JeyC Article Comp/site/models/jeycarticle.php",
+		"/var/www/html/JeyC Article Comp/site/controller.php",
+		"/var/www/html/Joomla 3 Base/modules/mod_articles_category/mod_articles_category.php",
+		"/var/www/html/ui/css/global.css",
+		"/var/www/html/point.php",
+		"/var/www/html/point.php.jpg",
+		"/home/ionel/.cache/.fr-fzLXOP/jquery-ui-1.11.0.custom/jquery-ui.js",
+		"/var/www/html/ui/script/colorPicker.js",
+		"/var/www/html/ui/script/jquery.js",
+		"/var/www/html/ui/css/bootstrap.css",
+		"/home/ionel/.config/sublime-text-3/Packages/SublimeOnSaveBuild/README.md",
+		"/home/ionel/.config/sublime-text-3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/home/ionel/.config/sublime-text-3/Packages/User/SCSS.sublime-settings",
+		"/home/ionel/.config/sublime-text-3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/var/www/html/ui/css/we.css",
+		"/home/devel/public4.webas.ro/templates/template21/style.css",
+		"/home/devel/public4.webas.ro/templates/template21/stylenew.css",
+		"/home/devel/public4.webas.ro/admin/function/functions.php",
+		"/var/www/html/ng/index.html",
+		"/home/devel/public4.webas.ro/templates/template21/custom.js",
+		"/home/devel/public4.webas.ro/members/content.php",
+		"/home/devel/public4.webas.ro/templates/template21/home.tpl",
+		"/home/devel/public4.webas.ro/templates/template21/header.tpl",
+		"/home/devel/public4.webas.ro/members/categories.php",
+		"/home/devel/public4.webas.ro/inc/box_categories.php",
+		"/home/devel/public4.webas.ro/templates/template21/box_search.tpl",
+		"/var/www/html/ng/app/controllers/controllers.js",
+		"/var/www/html/ng/app/data/factory.js",
+		"/home/devel/public4.webas.ro/inc/bootstrap/js/bootstrap3.js",
+		"/home/ionel/Downloads/bootstrap-3.2.0-dist/js/bootstrap.js",
+		"/home/devel/public4.webas.ro/admin/plugins/galleria/galleria-1.2.9.js",
+		"/home/devel/public4.webas.ro/templates/-template21/custom.js",
+		"/home/devel/public4.webas.ro/admin/plugins/jquery-file-upload-9.5.7/.jshintrc",
+		"/home/devel/public4.webas.ro/.htaccess",
+		"/home/devel/public4.webas.ro/inc/scripts.js",
+		"/home/devel/public4.webas.ro/members/shopping_cart_add_rights_managed.php",
+		"/home/devel/public4.webas.ro/members/shopping_cart.php",
+		"/home/devel/public4.webas.ro/contacts/send.php",
+		"/home/devel/public4.webas.ro/admin/plugins/tiny_mce/utils/form_utils.js",
+		"/home/devel/public4.webas.ro/inc/footer.php",
+		"/home/devel/public4.webas.ro/inc/bootstrap/css/bootstrap.css",
+		"/home/devel/public4.webas.ro/inc/bootstrap/css/bootstrap3.css",
+		"/home/devel/public4.webas.ro/inc/jquery.bxslider.css",
+		"/home/devel/public4.webas.ro/templates_c/1a67bf55546c3767e96db8de758658cd7cb98e74.file.photographers.tpl.php",
+		"/home/devel/public4.webas.ro/inc/jquery.bxslider.js",
+		"/home/devel/public4.webas.ro/templates/-template21/box_members_login.tpl"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/html/__/webgl",
+			"/home/ionel/Downloads/three.js-r1",
+			"/home/ionel/Downloads/three.js-r33/src",
+			"/home/ionel/Downloads/three.js-r33",
+			"/var/www/html/Joomla 3 Base/modules/mod_timeline",
+			"/var/www/html/Joomla 3 Base/administrator/components/com_admin",
+			"/var/www/html/Joomla 3 Base/modules/mod_timeline/others",
+			"/var/www/html/Joomla 3 Base/modules/mod_timeline",
+			"/var/www/html/JeyC Article Comp",
+			"/var/www/html/Joomla 3 Base",
+			"/var/www/html/Joomla 3 Base/modules/mod_menu",
+			"/home/devel/public4.webas.ro",
+			"/home/devel/public4.webas.ro/members",
+			"/home/devel/public4.webas.ro",
+			"/home/devel/public4.webas.ro/inc",
+			"/home/devel/public4.webas.ro/members",
+			"/home/devel/public4.webas.ro",
+			"/home/devel/public4.webas.ro/templates",
+			"/home/devel/public4.webas.ro",
+			"/home/devel/public4.webas.ro/templates/template21",
+			"/home/devel/public4.webas.ro",
+			"/home/devel/public4.webas.ro/admin",
+			"/home/devel/public4.webas.ro",
+			"/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro",
+			"/var/www/html/ng",
+			"/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro",
+			"/var/www/store/<don't delete>",
+			"/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro",
+			"/var/www/store/<don't delete>",
+			"/var/www/store/<don't delete>/inc",
+			"/var/www/store/<don't delete>",
+			"/var/www/store/store",
+			"/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro",
+			"/var/www/store/store",
+			"/var/www/<don't delete>",
+			"/var/www/<don't delete>/admin/function",
+			"/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/admin/function",
+			"/var/www/<don't delete>",
+			"/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/admin",
+			"/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/.htaccess,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/_data,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/admin,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/cache,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/contacts,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/content,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/content2,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/images,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/inc,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/index.php,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/install,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/installation.txt,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/members,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/news,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/templates,/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro/templates_c",
+			"/run/user/1000/gvfs/smb-share:server=46.102.175.100,share=devel/public4.webas.ro",
+			"/var/www/html/Joomla 3 Base/components/com_content",
+			"/var/www/html/Joomla 3 Base",
+			"/var/www/html/Joomla 3 Base/templates/protostar",
+			"/var/www/html/Joomla 3 Base/components/com_helloworld",
+			"/var/www/html/Joomla 3 Base/administrator/components",
+			"/var/www/html/Joomla 3 Base/administrator/components/com_content"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</li>",
+			"error",
+			" name",
+			"some name2",
+			" name",
+			"ctrl+alt+",
+			"sectionData",
+			"Language",
+			"args",
+			"pattern",
+			"draw_",
+			"resolution",
+			"color2",
+			"Color",
+			"color",
+			"noise",
+			"000",
+			"3",
+			"350",
+			"resolution",
+			"0.3",
+			"1.0",
+			"2",
+			"var",
+			"10",
+			"set",
+			"light",
+			"directionalLight",
+			"120",
+			"12",
+			".1",
+			"objects",
+			"type:",
+			"type :",
+			"type",
+			"three.mesh",
+			".type",
+			"this.type",
+			"three.boxgeometry",
+			"three.geometry",
+			".geometry",
+			"parse",
+			"boxgeo",
+			"0.0",
+			"1",
+			"cubec",
+			"2",
+			"0",
+			"diffuse",
+			"0.2",
+			"* Math.PI / 180.0",
+			"elements",
+			"rotMat.elements",
+			"1",
+			"plane",
+			"10",
+			"1",
+			".1",
+			"9",
+			"2",
+			"plane",
+			"gl.enabl",
+			"-5",
+			"drawElements",
+			"camera",
+			"this.d",
+			"matrixWord",
+			"Matrix4",
+			"M",
+			"= M",
+			"M",
+			".camera",
+			".object3d",
+			".perspectivecamera",
+			".o=",
+			".o =",
+			".o",
+			"webgl.",
+			"THREE.Object3D",
+			"webgl.object.prototype",
+			"\nMatrix4.",
+			"Matrix4",
+			"this.",
+			"=",
+			"this.",
+			"= ",
+			"indices",
+			"vertices",
+			"b.M",
+			"angle)",
+			"angle",
+			"generateUUID",
+			"math.genera",
+			"three.perspectivecamera",
+			"var ",
+			"m.d",
+			"\n	",
+			"this.d",
+			"perspective",
+			",!",
+			"pos",
+			"1",
+			"diffuse1",
+			"col1",
+			".geometry",
+			"0",
+			"gl",
+			"=",
+			"width",
+			"this",
+			"width",
+			"float attenu",
+			"attenuation1",
+			"temp",
+			"/1.0+pow",
+			",2",
+			"length(",
+			"length",
+			"Pos",
+			"pos",
+			"1+",
+			"2",
+			"12",
+			"9",
+			"setupLights",
+			"setProgram",
+			"renderObjectsImmediate",
+			".Render ="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php ",
+			"<?=",
+			"<?php",
+			"<?",
+			"<?php ",
+			"<?=",
+			"<?php"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 395.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SS.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2550,
+								2550
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2236.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Language.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1466,
+								1466
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "htmls.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.518769551616,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "SS.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"21.js",
+				"templates/template21/custom.js"
+			],
+			[
+				"scri",
+				"inc/scripts.js"
+			],
+			[
+				"func",
+				"admin/function/functions.php"
+			],
+			[
+				"bxslidc",
+				"inc/jquery.bxslider.css"
+			],
+			[
+				"21customjs",
+				"templates/template21/custom.js"
+			],
+			[
+				"cuso",
+				"templates/-template21/custom.js"
+			],
+			[
+				".js",
+				"templates/-template21/custom.js"
+			],
+			[
+				"bxslcss",
+				"inc/jquery.bxslider.css"
+			],
+			[
+				"bxslidejs",
+				"inc/jquery.bxslider.js"
+			],
+			[
+				"bslidrcs",
+				"inc/jquery.bxslider.css"
+			],
+			[
+				"bxslidecss",
+				"inc/jquery.bxslider.css"
+			],
+			[
+				"membersconte",
+				"members/content.php"
+			],
+			[
+				"21stylcss",
+				"templates/template21/style.css"
+			],
+			[
+				"memberspage",
+				"members/page.php"
+			],
+			[
+				"membeconten",
+				"members/content.php"
+			],
+			[
+				"bxslics",
+				"inc/jquery.bxslider.css"
+			],
+			[
+				"21style.css",
+				"templates/template21/style.css"
+			],
+			[
+				"memberscateg",
+				"members/categories.php"
+			],
+			[
+				"home.tp",
+				"templates/template21/home.tpl"
+			],
+			[
+				"members/contentlist.php",
+				"members/content_list.php"
+			],
+			[
+				"memeblog.php",
+				"members/blog.php"
+			],
+			[
+				"memefriends",
+				"members/friends.php"
+			],
+			[
+				"membsupp",
+				"members/support.php"
+			],
+			[
+				"affielba",
+				"members/affiliate_balance.php"
+			],
+			[
+				"commbala",
+				"members/commission_balance.php"
+			],
+			[
+				"commisset",
+				"members/commission_settings.php"
+			],
+			[
+				"commsiera",
+				"members/commission_earning.php"
+			],
+			[
+				"commisi",
+				"members/commission.php"
+			],
+			[
+				"memprohom",
+				"members/profile_home.php"
+			],
+			[
+				"footerphp",
+				"inc/footer.php"
+			],
+			[
+				"21foot",
+				"templates/template21/footer.tpl"
+			],
+			[
+				"membuserlis",
+				"members/users_list.php"
+			],
+			[
+				"styl",
+				"bootstrap/style.css"
+			],
+			[
+				"css",
+				"bootstrap/animate.css"
+			],
+			[
+				"auth",
+				"app/directives/auth.js"
+			],
+			[
+				"regi",
+				"app/partials/register.html"
+			],
+			[
+				"angu",
+				"angular/angular.js"
+			],
+			[
+				"param",
+				"Joomla Test/layouts/joomla/edit/params.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/ng/AngularJs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,71 @@
+
+#script{{
+	<script src="$$" type="text/javascript"></script>
+}}
+
+#page{{
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>$title</title>
+		%script[scripts]
+	</head>
+	<body>
+		<header>
+			$header
+		</header>
+		<div class="container">#body</div>
+		<footer>
+			$footer
+		</footer>
+	</body>
+	</html>
+}}
+
+#body{{
+	RON: <input type="text" value="$ron">
+	<p></p>
+	EUR: {{ $ron * 4.5 }}
+	<div class="span">
+		user name : $userName 
+		<p>
+			user status : $userStatus
+		</p>
+	</div>
+}}
+
+
+#listItem {{
+	<li>Id: $id, Name: $name</li>
+}}
+
+
+#elem  {{
+	<div> Some Heading </div>
+	$r.t.y
+	the time is: $time
+	<br>
+	%listItem
+	<br>
+
+	%listItem[items]
+	<hr>
+	<ul>
+		#[items]{{ <li>Id: $id, Name: $name</li> }}
+
+		<li>Id: 1, Name: some name 1</li>
+		<li>Id: 2, Name: some name 2</li>
+		<li>Id: 3, Name: some name 3</li>
+
+		<li>Id: 1, Name: some name 1</li>
+		<li>Id: 2, Name: some name 2</li>
+		<li>Id: 3, Name: some name 3</li>
+
+	</ul>
+	@user.username: $user.name
+	@user.age : $user.age
+	
+	@requires[@buildings.$buildName,$level]
+
+}}
