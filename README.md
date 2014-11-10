@@ -2,4 +2,3 @@ SS
 ==
 
 SS - Snippet System
--------
