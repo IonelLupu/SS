@@ -56,7 +56,7 @@ $data = [
 // $S->elem($data);
 $S->page([
 	"title"		=> "SS",
-	"script"	=> ["script/jquery.js","script/ss.js","script/script.js"],
+	"scripts"	=> ["script/jquery.js","script/ss.js","script/script.js"],
 	"header" 	=> "menu here",
 	"footer" 	=> "copyright here",
 	"data" 		=> $data
@@ -68,3 +68,4 @@ $time = microtime(true) - $_SERVER["REQUEST_TIME_FLOAT"];
 // echo "Process time: $time seconds\n";
 // echo "<br>\nend of doc";
 ?>
+

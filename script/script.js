@@ -1,8 +1,9 @@
 var data = {
-		ff 			: 5677,
+		id 			: 5677,
 		userName 	: "Johnny",
 		userStatus 	: "Developing",
 		eur			: "dd",
+		ron			: 55,
 		items 		: [
 			{
 				name 	: "Lorem ipsum.",
@@ -26,12 +27,13 @@ var data = {
 
 $(function(){
 
-
-	SS.init("htmls.html",data,function(){
-
- 		// $(".container").ss(data);
-		// $(".span").ss(user);
-
-	})
-
+	SS.init("htmls.html",data);
+	SS.$func.currency = {
+		getEur : function(){
+			return data.ron * 4.5;
+		},
+		getUsd : function(){
+			return data.ron * 3.5;
+		}
+	}
 })

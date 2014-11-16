@@ -9,7 +9,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>$title</title>
-		%script[scripts]
+		%script
 	</head>
 	<body>
 		<header>
@@ -24,9 +24,11 @@
 }}
 
 #body{{
-	RON: <input type="text" value="$ron">
-	<p></p>
-	EUR: {{ $ron * 4.5 }}
+	%listItem[items]
+	RON: <input type="text" val="$ron">
+	RON: <input type="number" val="^currency.getEur">
+	EUR: ^currency.getEur
+	USD: ^currency.getUsd
 	<div class="span">
 		user name : $userName 
 		<p>

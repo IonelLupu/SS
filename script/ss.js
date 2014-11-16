@@ -6,13 +6,13 @@
  * @return {array}         [matched values]
  */
 function getMatches(regex,subject){
-	var m = [];
-	match   = regex.exec(subject);
+	var res 	= [];
+	var match   = regex.exec(subject);
 	while (match != null) {
-		m.push(match)
+		res.push(match);
 		match   = regex.exec(subject);
 	}
-	return m;
+	return res;
 }
 
 var SS = {
@@ -23,8 +23,9 @@ var SS = {
 	$elem   : [],
 	$data   : [],
 	$regex 	: {},
+	$func  	: {}, 
 
-	init  : function(htmls,data,callback){
+	init  : function(htmls,data){
 		SS.data = data;
 		
 		/**
@@ -35,23 +36,24 @@ var SS = {
 
 			// get every page node
 			SS.$getNodes($("body"));
+			// console.log(SS.$elem);return;
 			for(var k in SS.$elem){
-				var textValue = (SS.$elem[k][0].data || SS.$elem[k][0].value || "").trim();
+				var textValue = (SS.$elem[k][0].data || SS.$elem[k].attr("val") || "").trim();
 				if(textValue == "")
 					delete (SS.$elem[k]);
 			}
-			
 			// get elements matching the keys from the data variable
 			for(var k in SS.$elem){
+				var regexes  = 0;
 				var e 	 	 = SS.$elem[k];
 				var node 	 = SS.$elem[k][0];
 				var nodeName = SS.$elem[k][0].nodeName.toLowerCase();
-				var ss 		 = e[0].data || e[0].value || e[0].innerHTML;
+				var ss 		 = e[0].data || e.attr("val") || e[0].innerHTML;
 				for(var i in SS.$regex){
 					var regex 	= SS.$regex[i];
 					var matches = getMatches(regex,ss);
-					if(!matches.length)
-						delete SS.$elem[k];
+					if(matches.length)
+						regexes++;
 					for(var j in matches){
 						// if(typeof SS.data[matches[j][1]] != "undefined")
 							e.val = matches[j][1];
@@ -59,12 +61,13 @@ var SS = {
 						
 					}
 				}
+				if(regexes == 0)
+					delete SS.$elem[k];
 			}
 			// re-index elements array
 			SS.$elem = SS.$elem.filter(function (item) { return item != undefined });
 
 			SS.$update();
-			callback();
 		})
 	},
 
@@ -75,7 +78,7 @@ var SS = {
 				SS.$getNodes($(contents[i]));  
 			else{
 				SS.$elem.push ( $(contents[i]) );
-				SS.$elem[SS.$elem.length-1]["ss"] 	= $(contents[i])[0].data || $(contents[i])[0].value || $(contents[i])[0].innerHTML;
+				SS.$elem[SS.$elem.length-1]["ss"] 	= $(contents[i])[0].data || $(contents[i]).attr("val") || $(contents[i])[0].innerHTML;
 
 			}
 		}
@@ -98,10 +101,11 @@ var SS = {
 
 	$compile : function(snippet){
 		return function(data){
-			var sn = "";
-			for(var k in SS.$patterns)
-				sn = SS.$patterns[k](snippet,data);
-			return sn;
+			var sn = snippet;
+			for(var k in SS.$patterns){
+				sn = SS.$patterns[k](sn,data);
+			}
+			return sn || "";
 		}
 	},
 	$pattern : function(name,func){
@@ -139,16 +143,23 @@ var SS = {
 	},
 	$addEvent : function(elem){
 		var evt = $._data( elem[0] , 'events');
-		if( typeof evt == "undefined" || typeof evt["input"] == "undefined" )
-			$(elem).bind("input",function(){
+		if( typeof elem[0].ssEvent == "undefined" ){
+			$(elem).on("input",function(){
 				SS.data[elem.val] = $(this).val();
 				SS.$update(this);
 			})
+		}
+		elem[0].ssEvent = true;
 	}
 };
 
+
+/**
+ * SS patterns
+ */
 SS.$regex["php"] = /\$([a-z][\w\d\.]*)/gi;
 SS.$pattern("php",function(snippet,data){
+	data 		= data || {};
 	var regex 	= SS.$regex["php"];
 	var match 	= regex.exec(snippet);
 	while (match != null) {
@@ -164,6 +175,25 @@ SS.$pattern("php",function(snippet,data){
 		snippet = snippet.replace(match[0],d);
 		match   = regex.exec(snippet);
 	}
+	return snippet;
+});
+
+SS.$regex["func"] = /\^ *(\w[\w\.\d]+)/gi;
+SS.$pattern("func",function(snippet,data){
+	var regex 	= SS.$regex["func"];
+	var match 	= regex.exec(snippet);
+	while (match != null) {
+		regex.lastIndex = 0;
+		// parse variable
+		var val 	= match[1].split(".");
+		var func 	= SS.$func;
+
+		for(k in val)
+			func 	= func[val[k]];
+		snippet 	= snippet.replace(match[0],func());
+		match   	= regex.exec(snippet);
+	}
+		match   	= regex.exec(snippet);
 	return snippet;
 })
 
