@@ -15,8 +15,11 @@
 		<header>
 			$header
 		</header>
-		<div class="container">#body</div>
-		<footer>
+		<div class="container">
+			<input type="text" val="$names">
+			Hello, $names! $ron ^currency.getEur
+		</div>
+			<footer>
 			$footer
 		</footer>
 	</body>
@@ -24,7 +27,17 @@
 }}
 
 #body{{
-	%listItem[items]
+	<ul>
+	</ul>
+		%listItem[items]
+		<p>ggggggggg</p>
+		%listItem[items]
+	Name : <input type="text" val="$name">
+	<br>
+	Age : <input type="text" val="$age">
+	<br>
+	<button onclick="addUser()">Add User</button>
+	<br>
 	RON: <input type="text" val="$ron">
 	RON: <input type="number" val="^currency.getEur">
 	EUR: ^currency.getEur
@@ -38,8 +51,12 @@
 }}
 
 
+#message {{
+	<span>Name: $userName -> Message: $message</span>
+
+}}
 #listItem {{
-	<li>Id: $id, Name: $name</li>
+	<li> Name: $name , Age: $age</li>
 }}
 
 

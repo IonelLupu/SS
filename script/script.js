@@ -6,34 +6,60 @@ var data = {
 		ron			: 55,
 		items 		: [
 			{
-				name 	: "Lorem ipsum.",
+				name 	: "Jack.",
 				age 	: 3
 			},
 			{
-				name 	: "bbbbbum.",
+				name 	: "Boyd.",
 				age 	: 5
 			},
 			{
-				name 	: "Logfghghm.",
+				name 	: "Adam.",
 				age 	: 45
 			},
 			{
-				name 	: "Lo45345345.",
-				age 	: 12
+				name 	: "Lory.",
+				age 	: 42
 			}
-		]
+		],
+		message : "How are you today?"
 	};
 
 
 $(function(){
 
-	SS.init("htmls.html",data);
+	for(var i = 0; i <= 100; i++)
+		data.items.push({
+			name : i+" "+i,
+			age : i
+		})
+
+	SS.init("htmls.html",data,function(){
+		$(".container").append(SS.body());
+		$(".container").append(SS.message());
+		$(".container").append(SS.message());
+		$(".container").append(SS.message());
+		$(".container").append(SS.message());
+	});
+
+	window.addUser = function(){
+		var name = data.name;
+		var age = data.age;
+		console.log(name,age);
+		data.items.push({
+			name : name,
+			age : age
+		});
+		SS.$update();
+	}
+
 	SS.$func.currency = {
 		getEur : function(){
-			return data.ron * 4.5;
+			return data.ron / 4.5;
 		},
 		getUsd : function(){
-			return data.ron * 3.5;
+			return data.ron / 3.5;
 		}
 	}
+
 })
